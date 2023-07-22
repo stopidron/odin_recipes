@@ -1,0 +1,19 @@
+body,
+html {
+  height: 100%;
+  margin: 0%;
+}
+
+body {
+  margin: 0%;
+}
+
+.title-contain {
+  background-color: rgb(130, 164, 221);
+
+  text-align: center;
+}
+
+.paragraph {
+  text-align: center;
+}
